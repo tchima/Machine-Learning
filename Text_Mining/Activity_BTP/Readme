@@ -1,0 +1,3 @@
+Text_clustering on data of professional activities in the field of building. 
+The goal is to segment according to the methods of machine learning the document by extracting relevant information. 
+LAD, TSNE, TFIDF, Kmeans are used in this project.
